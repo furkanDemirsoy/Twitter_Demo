@@ -1,0 +1,30 @@
+.container{
+
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+
+}
+
+.containerLayout{
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: hsl(199, 26%, 52%);
+    flex-direction: column;
+    padding-top: 10px;
+    height: fit-content;
+
+
+
+
+}
+
+
+
